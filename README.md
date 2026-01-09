@@ -9,7 +9,7 @@ I bridge the gap between rigorous backend logic and intuitive frontend design, w
 
 ---
 
-## 🛠 Technical Expertise
+## Technical Expertise
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -22,13 +22,13 @@ I bridge the gap between rigorous backend logic and intuitive frontend design, w
 
 ## Key Projects
 
-### [Foodbank SaaS CRM](LINK_TO_YOUR_REPO)
+### [Foodbank SaaS CRM](https://github.com/bolade-olayode/CRM-DEVELOPMENT)
 **Tech Stack:** PHP, Dolibarr ERP, MySQL, Docker
 A multi-tenant SaaS platform enabling Vendors to manage inventory and Beneficiaries to redeem food credits.
 * **Architecture:** Integrated deep logic into the Dolibarr ERP core to handle subscription lifecycles.
 * **Impact:** Automated renewal validation and payment verification, reducing admin intervention by 100%.
 
-### [Legal Document Automation](LINK_TO_YOUR_REPO)
+### [Legal Document Automation](https://github.com/bolade-olayode/automated-case-reporting-system)
 **Tech Stack:** Python, OCR, PDF Pipelines
 An automation suite designed to process raw court judgments into publication-ready documents.
 * **Solution:** Solved complex layout parsing issues using `python-docx` and `PyPDF2`.
@@ -45,11 +45,6 @@ A cross-platform mobile application for UK healthcare staff scheduling and patie
 * **Challenge:** Migrating a monolithic WordPress platform to a decoupled microservices architecture.
 * **Result:** Achieved a **40% reduction** in page load latency and implemented real-time data sync.
 
----
-
-## GitHub Stats
-
-![Bolade's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolade-olayode&show_icons=true&theme=radical)
 ---
 
 ##  Connect
