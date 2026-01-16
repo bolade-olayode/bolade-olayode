@@ -1,6 +1,6 @@
-# Hi, I'm Bolade Emmanuel Olayode.
+# Hi, I'm Boladde Olayode Emmanuel.
 
-### Senior Full-Stack Engineer | SaaS & Fintech Specialist
+### Full-Stack Engineer | SaaS & Fintech Specialist
 **Lagos, Nigeria**
 
 I am a software engineer focused on **architecting scalable web platforms**, **automating complex business workflows**, and **migrating legacy systems** to modern cloud-native stacks.
