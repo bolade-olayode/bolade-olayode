@@ -81,31 +81,31 @@ I build custom web applications, AI-powered automation systems, and high-convert
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏥 [Albis Care Management System](https://github.com/bolade-olayode) *(Client Project)*
+### [Albis Care Management System](https://github.com/bolade-olayode) *(Client Project)*
 > **React Native · PHP · MySQL · Push Notifications**
 
 Cross-platform mobile app for UK healthcare staff scheduling and patient record management. Built with role-based access control (RBAC) for sensitive healthcare data. **→ 30% improvement in operational efficiency**
 
-### ⚖️ [Legal Document Automation Pipeline](https://github.com/bolade-olayode/automated-case-reporting-system)
+### [Legal Document Automation Pipeline](https://github.com/bolade-olayode/automated-case-reporting-system)
 > **Python · OCR · PDF Processing · Automation**
 
 AI-powered system that processes raw court judgments into publication-ready documents. Solved complex layout parsing with custom PDF pipelines. **→ 70% reduction in processing time**
 
-### 🏪 [Foodbank SaaS CRM](https://github.com/bolade-olayode/CRM-DEVELOPMENT)
+### [Foodbank SaaS CRM](https://github.com/bolade-olayode/CRM-DEVELOPMENT)
 > **PHP · Dolibarr ERP · MySQL · Docker**
 
 Multi-tenant SaaS platform for food credit management. Automated subscription lifecycles, renewal validation, and payment verification. **→ 100% reduction in admin intervention**
 
-### 🔄 [Legal Digital Platform Migration](https://github.com/bolade-olayode) *(Client Project)*
+### [Legal Digital Platform Migration](https://github.com/bolade-olayode) *(Client Project)*
 > **Next.js · Supabase · PostgreSQL**
 
 Migrated a monolithic WordPress platform to a decoupled modern architecture with real-time data sync. **→ 40% reduction in page load latency**
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Migrated a monolithic WordPress platform to a decoupled modern architecture with
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
