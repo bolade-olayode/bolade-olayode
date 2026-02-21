@@ -16,7 +16,7 @@
 
 I build custom web applications, AI-powered automation systems, and high-converting websites for businesses across healthcare, legal tech, fintech, and e-commerce. From full stack software to AI chatbots to WordPress and Shopify stores — I deliver solutions that drive real, measurable results.
 
-- 🔭 Currently building **AI chatbots & workflow automation** for businesses using OpenAI, Vapi, Make.com & n8n
+- 🔭 Currently building **AI chatbots & workflow automation** for businesses using OpenAI, Anthropic, Vapi, Make.com & n8n
 - 💻 5+ years of experience shipping **production-ready web and mobile applications**
 - 🏆 **Top Rated** freelancer on Upwork — top 10% of the platform
 - 🌍 Based in **Lagos, Nigeria** · Open to remote, hybrid & onsite roles
