@@ -131,7 +131,7 @@ Migrated a monolithic WordPress platform to a decoupled modern architecture with
 
 <div align="center">
 
-### Let's Build Something Great=-Together
+### Let's Build Something Great Together
 
 I'm open to **freelance projects**, **full-time hybrid/onsite roles**, **contract work**, and **collaborations**.
 
