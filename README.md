@@ -109,8 +109,6 @@ Migrated a monolithic WordPress platform to a decoupled modern architecture with
 
 <div align="center">
 
-![Bolade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bolade-olayode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bolade-olayode&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bolade-olayode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
