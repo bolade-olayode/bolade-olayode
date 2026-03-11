@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Bolade 😎👋
+# Hey, I'm Bolade 👋
 
 ### Full Stack Software Engineer | AI Automation & Chatbots | WordPress & Shopify 
 
@@ -112,16 +112,6 @@ Migrated a monolithic WordPress platform to a decoupled modern architecture with
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bolade-olayode&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bolade-olayode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=bolade-olayode&theme=tokyonight&no-frame=true&no-bg=true&column=7)
 
 </div>
 
