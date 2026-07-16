@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Bolade 👋
+# Hey, I'm Bolade Olayode👋
 
 ### Full Stack Software Engineer | AI Automation & Chatbots
 
