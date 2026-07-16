@@ -89,7 +89,7 @@ I build custom web applications, AI-powered automation systems, and high-convert
 
 ### Let's Build Something Great Together
 
-I'm open to **freelance projects**, **full-time hybrid/onsite roles**, **contract work**, and **collaborations**.
+I'm very much open to **freelance projects**, **full-time hybrid/onsite roles**, **contract work**, and **collaborations**.
 
 If you're building something interesting — let's talk.
 
