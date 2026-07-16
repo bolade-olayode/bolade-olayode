@@ -19,7 +19,7 @@ I build custom web applications, AI-powered automation systems, and high-convert
 - 6+ years of experience shipping **production-ready web and mobile applications**
 - **Top Rated** freelancer on Upwork — top 10% of the platform
 - Based in **Lagos, Nigeria** · Open to remote, hybrid & onsite roles
-- Fun fact: I bridge the gap between AI automation and full stack development — most developers can only do one
+
 
 ---
 
