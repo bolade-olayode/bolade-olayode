@@ -1,4 +1,4 @@
-# Bolade Olayode
+# Olayode Bolade
 
 **Full Stack Software Engineer** · AI Automation & Chatbots
 
