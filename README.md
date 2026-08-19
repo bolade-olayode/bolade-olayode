@@ -1,4 +1,4 @@
-# Bolade 
+# Olayode Bolade Emmanuel
 
 **Full Stack Software Engineer** · AI Automation & Chatbots
 
