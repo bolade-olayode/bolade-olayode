@@ -1,6 +1,6 @@
-# Olayode Bolade Emmanuel
+# Olayode Bolade
 
-**Full Stack Software Engineer** · AI Automation & Chatbots
+**Full Stack Software Engineer**
 
 I build custom web applications, AI-powered automation systems, and high-converting websites for businesses in healthcare, legal tech, fintech, and e-commerce. 6+ years shipping production software. Top Rated on Upwork — top 10% of the platform.
 
