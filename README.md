@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer**
 
-I build custom web applications, AI-powered automation systems, and high-converting websites for businesses in healthcare, legal tech, fintech, and e-commerce. 6+ years shipping production software. Top Rated on Upwork — top 10% of the platform.
+I build custom web applications, AI-powered automation systems, and high-converting websites for businesses in healthcare, legal tech, fintech, and e-commerce. 4+ years shipping production software. Top Rated on Upwork — top 10% of the platform.
 
 Currently building AI chatbots and workflow automation with OpenAI, Anthropic, Vapi, Make.com, and n8n.
 
