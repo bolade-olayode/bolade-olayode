@@ -1,4 +1,4 @@
-# Olayodde Bolade
+# Olayode Bolade
 
 **Full Stack Software Engineer**
 
