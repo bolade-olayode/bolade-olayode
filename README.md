@@ -1,4 +1,4 @@
-# Bolade Olayode
+# Olayode Bolade
 
 **Full Stack Engineer**
 
