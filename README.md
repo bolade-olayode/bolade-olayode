@@ -18,4 +18,4 @@ Currently building AI chatbots and workflow automation with OpenAI, Anthropic, V
 
 Open to freelance projects, contract work, and full-time hybrid/onsite roles.
 
-[LinkedIn](https://linkedin.com/in/bolade-olayode) · [X](https://x.com/Apex_predator70) · [olayodeb6@gmail.com](mailto:Olayodeb6@gmail.com)
+[LinkedIn](https://linkedin.com/in/bolade-olayode) · [X](https://x.com/BoladeOlayode01) · [olayodeb6@gmail.com](mailto:Olayodeb6@gmail.com)
