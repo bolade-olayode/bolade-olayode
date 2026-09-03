@@ -8,7 +8,7 @@ Currently building AI chatbots and workflow automation with OpenAI, Anthropic, V
 
 ## Stack
 
-- **Languages** — JavaScript / TypeScript, Python, PHP
+- **Languages** — JavaScript / TypeScript, Python, PHP (Laravel)
 - **Frontend** — React, Next.js, React Native, Vue, Tailwind CSS
 - **Backend** — Node.js, Express, Laravel, Django, FastAPI
 - **AI & Automation** — OpenAI, Anthropic, n8n, Make.com, Zapier, Vapi
