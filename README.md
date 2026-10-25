@@ -6,7 +6,7 @@ I build custom web applications, AI-powered automation systems, and high-convert
 
 Currently building AI chatbots and workflow automation with OpenAI, Anthropic, Vapi, Make.com, and n8n.
 
-## Stack
+## Tech Stack
 
 - **Languages** — JavaScript / TypeScript, Python, PHP (Laravel), Java, C+
 - **Frontend** — React, Next.js, React Native, Vue, Tailwind CSS
