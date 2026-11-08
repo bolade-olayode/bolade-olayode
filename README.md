@@ -12,7 +12,7 @@ Currently building AI chatbots and workflow automation with OpenAI, Anthropic, V
 - **Frontend** — React, Next.js, React Native, Vue, Tailwind CSS
 - **Backend** — Node.js, Express, Laravel, Django, FastAPI
 - **AI & Automation** — OpenAI, Anthropic, n8n, Make.com, Zapier, Vapi
-- **Data & Infra** — PostgreSQL, MySQL, MongoDB, Redis, Supabase, AWS, Docker
+- **Data & Infrastructure** — PostgreSQL, MySQL, MongoDB, Redis, Supabase, AWS, Docker
 
 ## Contact
 
