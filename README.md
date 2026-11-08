@@ -1,4 +1,4 @@
-# Olayode Bolade Emmanuel
+# Olayode Bolade
 
 **Full Stack Software Engineer**
 
