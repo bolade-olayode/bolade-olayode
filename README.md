@@ -4,7 +4,7 @@
 
 I build custom web applications, Mobile Apps, AI-powered automation systems, and high-converting websites for businesses in healthcare, legal tech, fintech, and e-commerce. 4+ years shipping production software. Top Rated on Upwork — top 10% of the platform.
 
-Currently building AI chatbots and workflow automation with OpenAI, Anthropic, Vapi, Make.com, and n8n.
+Currently building RAG Pipelines, AI chatbots and workflow automation with OpenAI, Anthropic, Vapi, Make.com, and n8n.
 
 ## Tech Stack
 
