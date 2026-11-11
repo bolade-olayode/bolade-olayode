@@ -22,31 +22,27 @@ Currently exploring and building with **AI-powered applications, RAG pipelines, 
 
 ---
 
-## Technologies & Tools
 
-**Languages**
+## 🛠️ Technologies & Tools
 
-JavaScript · TypeScript · Python · PHP · SQL
+### Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,php&theme=dark)](https://skillicons.dev)
 
-**Frontend & Mobile**
+### Frontend & Mobile
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css&theme=dark)](https://skillicons.dev)
 
-React · Next.js · React Native · Vue.js · Tailwind CSS
+### Backend & APIs
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,laravel,django,fastapi&theme=dark)](https://skillicons.dev)
 
-**Backend & APIs**
+### Databases & Infrastructure
+[![Infrastructure](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,aws,docker&theme=dark)](https://skillicons.dev)
 
-Node.js · Express.js · Laravel · Django · FastAPI · REST APIs
+### AI & Automation
+**OpenAI · Anthropic · RAG Pipelines · n8n · Make.com · Zapier · Vapi**
 
-**Databases & Infrastructure**
+### Development Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark)](https://skillicons.dev)
 
-PostgreSQL · MySQL · MongoDB · Redis · Supabase · AWS · Docker
-
-**AI & Automation**
-
-OpenAI · Anthropic · RAG · n8n · Make.com · Zapier · Vapi
-
-**Engineering Practices**
-
-System Architecture · API Design · Database Modelling · CI/CD · Git · Performance Optimization
 
 ---
 
