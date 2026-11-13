@@ -1,6 +1,6 @@
 # Hey, I'm Bolade 👋
 
-### Senior Full-Stack Engineer | Building Scalable Products & Intelligent Systems
+### Senior Full-Stack Engineer
 
 I'm a software engineer with **5+ years of experience** designing, building, and maintaining production-grade web and mobile applications across healthcare, fintech, logistics, e-commerce, and SaaS.
 
