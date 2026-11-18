@@ -8,7 +8,7 @@ My work goes beyond writing code. I take ownership of **system architecture, bac
 
 Currently exploring and building with **AI-powered applications, RAG pipelines, LLM integrations, and workflow automation**.
 
-🌐 **[Explore My Portfolio](https://www.boladeolayode.xyz/)**
+**[Explore My Portfolio](https://www.boladeolayode.xyz/)**
 
 ---
 
