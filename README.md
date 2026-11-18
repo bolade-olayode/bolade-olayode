@@ -37,12 +37,11 @@ Currently exploring and building with **AI-powered applications, RAG pipelines, 
 ### Databases & Infrastructure
 [![Infrastructure](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,aws,docker&theme=dark)](https://skillicons.dev)
 
-### AI & Automation
-**OpenAI · Anthropic · RAG Pipelines · n8n · Make.com · Zapier · Vapi**
-
 ### Development Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark)](https://skillicons.dev)
 
+### AI & Automation
+**OpenAI · Anthropic · RAG Pipelines · n8n · Make.com · Zapier · Vapi**
 
 ---
 
