@@ -1,5 +1,4 @@
 # Heyyy, I'm Bolade
-de
 
 ### Full-Stack Software Engineer
 
