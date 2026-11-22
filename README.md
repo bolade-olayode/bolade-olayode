@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Engineer
 
-I'm a software engineer with **5+ years of experience** designing, building, and maintaining production-grade web and mobile applications across healthcare, fintech, logistics, e-commerce, and SaaS.
+I'm a software engineer with **5 years of experience** designing, building, and maintaining production-grade web and mobile applications across healthcare, fintech, logistics, e-commerce, and SaaS.
 
 My work goes beyond writing code. I take ownership of **system architecture, backend infrastructure, API design, database modelling, and end-to-end product delivery**, turning complex business requirements into reliable, scalable software.
 
