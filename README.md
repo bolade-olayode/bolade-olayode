@@ -12,7 +12,7 @@ Currently exploring and building with **AI-powered applications, RAG pipelines, 
 
 ---
 
-## What I've Built & Delivered
+## What I've Built
 
 - **End-to-End Product Engineering:** Sole engineering owner of Twale's multi-application ecosystem, spanning administrative, web, customer, and driver platforms.
 - **Production Systems:** Built and maintained business-critical applications supporting 60+ healthcare clients.
