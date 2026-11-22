@@ -58,4 +58,4 @@ Currently exploring and building with **AI-powered applications, RAG pipelines, 
 
 I'm open to **senior engineering opportunities, technical collaborations, and interesting product challenges**.
 
-[Portfolio](https://www.boladeolayode.xyz/) · [LinkedIn](https://linkedin.com/in/bolade-olayode) · [X](https://x.com/BoladeOlayode01) · [Email](mailto:olayodebolade963@gmail.com)
+[LinkedIn](https://linkedin.com/in/bolade-olayode) · [X](https://x.com/BoladeOlayode01) · [Mail](mailto:olayodebolade963@gmail.com)
