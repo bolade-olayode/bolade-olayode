@@ -1,4 +1,4 @@
-# Heyyy, I'm OlayBolade
+# Heyyy, I'm OlaBolade
 
 ### Full-Stack Software Engineer
 
